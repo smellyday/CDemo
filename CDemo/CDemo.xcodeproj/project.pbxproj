@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5ACF3E5F1C0054880014F288 /* HelloWorld.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HelloWorld.c; sourceTree = "<group>"; };
+		5ACF3E601C0054880014F288 /* HelloWorld.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorld.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5ACF3E581C0054600014F288 = {
+			isa = PBXGroup;
+			children = (
+				5ACF3E601C0054880014F288 /* HelloWorld.h */,
+				5ACF3E5F1C0054880014F288 /* HelloWorld.c */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5ACF3E591C0054600014F288 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+			};
+			buildConfigurationList = 5ACF3E5C1C0054600014F288 /* Build configuration list for PBXProject "CDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5ACF3E581C0054600014F288;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5ACF3E5D1C0054600014F288 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5ACF3E5E1C0054600014F288 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5ACF3E5C1C0054600014F288 /* Build configuration list for PBXProject "CDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5ACF3E5D1C0054600014F288 /* Debug */,
+				5ACF3E5E1C0054600014F288 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5ACF3E591C0054600014F288 /* Project object */;
+}
